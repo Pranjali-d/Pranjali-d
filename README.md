@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Full Stack Projects
+### Power BI Dashboards
 [![GitHub Logo](wpa.png)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard)
 
 
