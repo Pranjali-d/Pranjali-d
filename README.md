@@ -8,6 +8,7 @@
 
 ##### [ Workplace Analytics DB](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard) 
 
+![output-onlinegiftools](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/a17c17a3-8fd7-4ca9-884e-5a12dc3a5b82)
 
 
 
