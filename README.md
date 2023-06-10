@@ -1,7 +1,9 @@
-### Hi there 👋
+
+<h1 align="center">Hi, I'm Pranjali! 👋</h1>
+<h2 align="center"> Data Analyst || BI enthusiast and Data storyteller </h2>
 
 
-### Power BI Dashboards
+### Dashboards
 [![GitHub Logo](wpa.png)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard) 
 
 ##### [ Workplace Analytics DB](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard) 
