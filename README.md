@@ -2,7 +2,7 @@
 
 
 ### Power BI Dashboards
-[![GitHub Logo](wpa.png)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard)
+[![GitHub Logo](wpa.png)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard) Workplace Analytics DB
 
 
 
