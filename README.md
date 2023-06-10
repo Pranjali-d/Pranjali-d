@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+### Full Stack Projects
+[![GitHub Logo](wpa.png)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard)
+
+
+
+
+
+
 <!--
 **Pranjali-d/Pranjali-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
