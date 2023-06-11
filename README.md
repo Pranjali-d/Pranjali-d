@@ -6,8 +6,8 @@
 
 
 ### 🙋🏻‍♀️ Introducing Myself
-Data Analyst || BI enthusiast and Data storyteller </p>
-With expertise in query optimization, database design, data modeling, and data analysis, I'm passionate about helping businesses make sense of their data.
+Data Analyst || BI enthusiast and Data storyteller 
+with expertise in data modeling, and data analysis and query optimization, I'm passionate about helping businesses make sense of their data.
 
 </br>
 
