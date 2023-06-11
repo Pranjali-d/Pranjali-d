@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 # Powerbi
-|  Project   |  Description |  Link |
+|  Project   |   Description |  Link |
 |---|---|---|
 | Workplace Analytics Dasboard | Workplace Analytics dashboard provides a quick and easy way to conduct a broad diagnostic on 2 themes : company's "Collaboration culture" , "Employee experience"   | [![Link](https://github.com/Pranjali-d/Pranjali-d/blob/main/resources/wpa_gif.gif)](https://github.com/Pranjali-d/Workplace-Analytics_Dashboard) |
 |HR Attiration Dashbaord  | This project focuses on HR Attiration and their associated metrics , performing exploratory data analysis to generate insights and visualize them with the help of Power BI.   | [![Link](https://user-images.githubusercontent.com/49934575/244920421-5550c8e6-eaa4-44db-bf78-6f5db7fedc7e.gif)](https://github.com/Pranjali-d/HR_powerBI_Report) |
@@ -19,15 +19,24 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Telco Churn Analysis Dashbaord  | An interactive dashboard to represent some analysis of "Telco customer churn" data and the reasons that made customers churn using Microsoft Power BI.  | [![Link](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/Telco_churn.gif)](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis) |
 | Data Job Analysis  | An interactive dashboard to represent some analysis of "Telco customer churn" data and the reasons that made customers churn using Microsoft Power BI.  | [![Link](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/data_job_gif.gif)](https://github.com/Pranjali-d/Data_job_market_Analysis) |
 
+ </br>
 
 # SQL
 |  Project   |  Description |  Link |
 |---|---|---|
 
+ </br>
+ 
 # Excel
 |  Project   |  Description |  Link |
 |---|---|---|
-
+ 
+ </br>
+ 
 # Virtual Case Experience
-|  Project   |  Description |  Link |
+|  Task 1   | Task 2 | Task 3 |
 |---|---|---|
+| Call Centre Trend Analysis [![Link](https://user-images.githubusercontent.com/49934575/244934563-0e8a843b-ca16-4b23-a012-1a4a09a1c83f.png)](hhttps://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/01_Call_centre_trends) | Customer Retention [![Link](https://user-images.githubusercontent.com/100661121/237678818-48d1cc92-049d-4392-8e29-8f60b096fd60.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/02_Customer%20retention)| Diversity and Inclusion [![Link](https://user-images.githubusercontent.com/100661121/242836307-7d865f96-024a-4e87-8d06-e4b7dabe76b6.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/03_Diversity_%26_Inclusion)  |
+
+
+
