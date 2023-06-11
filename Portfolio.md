@@ -4,12 +4,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [PowerBI](#powerbi)
+- [Virtual Case Experience](#excel)
 - [SQL](#sql)
 - [Excel](#excel)
 
 
-# Powerbi
 
+# Powerbi
 |  Project   |  Description |  Link |
 |---|---|---|
 | Workplace Analytics Dasboard | Workplace Analytics dashboard provides a quick and easy way to conduct a broad diagnostic on 2 themes : company's "Collaboration culture" , "Employee experience"   | [![Link](https://github.com/Pranjali-d/Pranjali-d/blob/main/resources/wpa_gif.gif)](https://github.com/Pranjali-d/Workplace-Analytics_Dashboard) |
@@ -19,6 +20,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Data Job Analysis  | An interactive dashboard to represent some analysis of "Telco customer churn" data and the reasons that made customers churn using Microsoft Power BI.  | [![Link](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/data_job_gif.gif)](https://github.com/Pranjali-d/Data_job_market_Analysis) |
 
 
+# SQL
+|  Project   |  Description |  Link |
+|---|---|---|
 
+# Excel
+|  Project   |  Description |  Link |
+|---|---|---|
 
-
+# Virtual Case Experience
+|  Project   |  Description |  Link |
+|---|---|---|
