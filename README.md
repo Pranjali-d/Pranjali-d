@@ -22,10 +22,8 @@ With expertise in query optimization, database design, data modeling, and data a
 
   </br>
   
-### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/Pranjali-d/Pranjali-d/blob/main/Portfolio.md).
+### [📚 Project Portfolio ](https://github.com/Pranjali-d/Pranjali-d/blob/main/Portfolio.md)
 
-</br>
 
 
 
