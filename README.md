@@ -24,15 +24,7 @@ with expertise in data modeling, and data analysis and query optimization, I'm p
 
   </br>
   
-  ### [📚 Project Portfolio ](https://github.com/Pranjali-d/Pranjali-d/blob/main/Portfolio.md)
-
-</br> 
-
-  # 🗺 Pranjali's  Portfolio
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
-
-
-## 📚 Table of Contents
+  ### 📚 Project Portfolio 
 - [PowerBI](#powerbi)
 - [Virtual Case Experience](#excel)
 - [SQL](#sql)
