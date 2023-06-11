@@ -1,5 +1,6 @@
+![profile_banner](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/f4bb7af3-b0de-4cd8-ad41-2abbaf90ff28)
 
-<h1 align="center">Hi, I'm Pranjali! 👋</h1>
+<h1 align="center">Hi, I'm Pranjali! 👋 </h1>
 <h2 align="center"> Data Analyst || BI enthusiast and Data storyteller </h2>
 
 
