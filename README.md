@@ -1,23 +1,31 @@
 ![profile_banner](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/f4bb7af3-b0de-4cd8-ad41-2abbaf90ff28)
 
 <h1 align="center">Hi, I'm Pranjali! 👋 </h1>
-<h2 align="center"> Data Analyst || BI enthusiast and Data storyteller </h2>
 
 
-<!--
-**Pranjali-d/Pranjali-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙋🏻‍♀️ Introducing Myself
+Data Analyst || BI enthusiast and Data storyteller </p>
+With expertise in query optimization, database design, data modeling, and data analysis, I'm passionate about helping businesses make sense of their data.
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tools
 
-### Dashboards
-[![preview](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/2d58d601-35f9-4a43-8234-c11dd5edb9b9)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard)  
--->
+</a> <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" height="40"/></a></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="Microsoft Power Point" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ <img src="https://microsoft.github.io/vivainsights/logo.png" alt="viva insights" width="40" height="40"/>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>[wip]
+
+  </br>
+  
+### 📚 Projects
+Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+
+</br>
+
+### 👯 Looking to collaborate on data  projects.  
+
+
+
