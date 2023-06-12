@@ -24,6 +24,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # SQL
 |  Project   |  Description |  Link |
 |---|---|---|
+| E-commerce Store Analysis | Ecommerce project  aimed to help grow the business and analyze performance along the way, worked through powerful analytics deep dives including traffic analysis and optimization, website measure and testing, channel mix, product level performance, user behaviour analysis. |  [![Link]( https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/e-com-store-sql.png )](https://github.com/Pranjali-d/E-commerce-Analysis-SQL-Case-Study/blob/main/README.md) |
+| World's Oldest Businesses | This SQL project  explores data on the world's oldest businesses: when were they founded, and which industries do they belong to? |  [![Link]( https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/images.jpg )](https://github.com/Pranjali-d/Worlds_oldest_buisness-sql-case-study) |
+
 
  </br>
  
