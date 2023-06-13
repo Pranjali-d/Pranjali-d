@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Pranjali! 👋 </h1>
+<h1 align="center">Hi, I'm Pranjali! <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/wave.gif" alt="matlab" width="40" height="40"/> </h1>
 
 
 ### 🙋🏻‍♀️ Introducing Myself
@@ -12,17 +12,23 @@ with expertise in data modeling, data analysis and query optimization, I'm passi
 </br>
 
 ### [📚 Project Portfolio]( https://github.com/Pranjali-d/Pranjali-d/blob/main/Portfolio.md)
+
 </br>
 
 ### 🛠️ Tools
-
 </a> <a href="https://powerbi.microsoft.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="Microsoft Power BI" width="40" height="40"/></a></a>  &nbsp; &nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="Microsoft Power Point" width="40" height="40"/></a>  &nbsp; &nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/></a>   &nbsp; &nbsp;
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/poweer%20query%20logo.jpg" alt="excel" width="40" height="40"/></a>   &nbsp; &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   &nbsp; &nbsp;
  <img src="https://microsoft.github.io/vivainsights/logo.png" alt="viva insights" width="40" height="40"/>  &nbsp; &nbsp;
+  <img src="https://github.com/Pranjali-d/Pranjali-d/blob/main/resources/matlab%20logo.jpg" alt="matlab" width="40" height="40"/> </a>   &nbsp; &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>[wip] 
 
   </br>
+  
+ <!---
+ <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="Microsoft Power Point" width="40" height="40"/></a>  &nbsp; &nbsp;
+ 
+ -->
   
  
