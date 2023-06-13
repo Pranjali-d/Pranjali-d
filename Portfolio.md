@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
  </br>
  
 # Virtual Case Experience
-[![PwC-PricewaterhouseCoopers-Logo (1)](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/add5f165-405f-4bd5-adda-53f1f86e4ae8)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp)
+[![PwC-PricewaterhouseCoopers-Logo (1)](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/PwC-PricewaterhouseCoopers-Logo%20(1).jpg)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp)
 
 
 |  Task 1   | Task 2 | Task 3 |
