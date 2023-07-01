@@ -25,6 +25,16 @@ with expertise in data modeling, data analysis and query optimization, I'm passi
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>[wip] 
 
   </br>
+
+<details>
+  <summary></summary>
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Pranjali-d&label=Profile%20views&color=0e75b6&style=flat" alt="Pranjali-d" />
+  </p>
+</details>
+  
+
+
   
  <!---
  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="Microsoft Power Point" width="40" height="40"/></a>  &nbsp; &nbsp;
