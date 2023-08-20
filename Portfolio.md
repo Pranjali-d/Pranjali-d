@@ -1,3 +1,5 @@
+<img align="right" width="300" height="300" src="https://github.com/Pranjali-d/Pranjali-d/blob/main/resources/git-%20portfolio-%20image.png">
+
 # 🗺 Pranjali's  Portfolio
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
@@ -7,6 +9,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Virtual Case Experience](#excel)
 - [SQL](#sql)
 - [Excel](#excel)
+
 
 
 
