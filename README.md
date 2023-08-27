@@ -11,7 +11,7 @@ with expertise in data modeling, data analysis and query optimization, I'm passi
 
 </br>
 
-### [📚 Project Portfolio]( https://github.com/Pranjali-d/Pranjali-d/blob/main/Portfolio.md)
+### [📚 Project Portfolio]( https://github.com/Pranjali-d/Portfolio )
 
 </br>
 
