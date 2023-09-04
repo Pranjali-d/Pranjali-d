@@ -26,11 +26,14 @@ with expertise in data modeling, data analysis and query optimization, I'm passi
 
   </br>
 
-<details>
-  <summary></summary>
-  <p align="left">
+
+ <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Pranjali-d&label=Profile%20views&color=0e75b6&style=flat" alt="Pranjali-d" />
   </p>
+
+<details>
+  <summary></summary>
+ 
 </details>
   
 
