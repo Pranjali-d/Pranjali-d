@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Pranjali! <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/wave.gif" alt="matlab" width="40" height="40"/> </h1>
+<h1 align="center">Hi, I'm Pranjali! <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/wave.gif" width="40" height="40"/> </h1>
 
 
 ### 🙋🏻‍♀️ Introducing Myself
