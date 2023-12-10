@@ -9,7 +9,7 @@
 </p>
 
 
-👯 I’m looking to collaborate with other data professionals to work on real world  projetcs.
+👯 I’m looking to collaborate  on real world data projetcs.
 </br>
 </br>
 </br>
